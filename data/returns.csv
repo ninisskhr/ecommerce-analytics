@@ -1,0 +1,168 @@
+transaction_id,date,customer_id,product_name,category,quantity,base_price,discount_pct,revenue,city,customer_segment,channel
+TXN00174,2023-03-10,CUST00187,Tupperware Set,Home & Living,1,349000,0.0,-349000.0,Jakarta,Occasional,Paid Social
+TXN00284,2023-01-11,CUST02068,Tupperware Set,Home & Living,2,349000,0.2,-365000.0,Medan,Occasional,Paid Social
+TXN00360,2023-12-25,CUST00747,Kris Mattress King,Home & Living,3,4200000,0.0,-7560000.0,Surabaya,Regular,Organic
+TXN00509,2023-08-21,CUST00580,Dyson V11 Vacuum,Home & Living,1,7499000,0.0,-8999000.0,Medan,New,Email
+TXN00617,2023-07-10,CUST02777,Xiaomi Redmi 12,Electronics,1,2199000,0.05,-2813000.0,Jakarta,Regular,Organic
+TXN00644,2023-04-09,CUST03499,IKEA Billy Shelf,Home & Living,2,799000,0.0,-1918000.0,Yogyakarta,Regular,Email
+TXN00709,2023-01-05,CUST04940,Dyson V11 Vacuum,Home & Living,1,7499000,0.1,-4411000.0,Jakarta,Regular,Organic
+TXN00712,2023-05-24,CUST02640,JBL Flip 6,Electronics,3,1199000,0.1,-4359000.0,Jakarta,Occasional,Marketplace
+TXN00750,2023-08-26,CUST01526,Dyson V11 Vacuum,Home & Living,2,7499000,0.1,-16198000.0,Jakarta,New,Marketplace
+TXN01009,2023-04-11,CUST03521,Dyson V11 Vacuum,Home & Living,1,7499000,0.0,-8999000.0,Surabaya,New,Paid Social
+TXN01050,2023-06-01,CUST02059,Logitech MX Keys,Electronics,1,1350000,0.05,-1796000.0,Surabaya,Occasional,Email
+TXN01139,2023-04-09,CUST02918,Logitech MX Keys,Electronics,2,1350000,0.0,-3240000.0,Jakarta,Loyal,Organic
+TXN01176,2023-03-25,CUST01447,The Ordinary AHA,Beauty,1,189000,0.05,-180000.0,Surabaya,Regular,Organic
+TXN01210,2023-08-25,CUST03775,Zara Blazer Set,Fashion,1,1199000,0.0,-1439000.0,Jakarta,New,Organic
+TXN01272,2023-05-10,CUST00161,Apple AirPods Pro,Electronics,2,3799000,0.1,-9207000.0,Bandung,Regular,Paid Social
+TXN01561,2023-05-06,CUST02583,Kris Mattress King,Home & Living,1,4200000,0.05,-5372000.0,Bandung,New,Marketplace
+TXN01633,2023-10-31,CUST03641,JBL Flip 6,Electronics,1,1199000,0.2,-767000.0,Jakarta,New,Email
+TXN01831,2023-12-22,CUST03088,Philips Air Fryer,Home & Living,1,1499000,0.1,-809000.0,Surabaya,Occasional,Marketplace
+TXN01866,2023-07-20,CUST02336,JBL Flip 6,Electronics,1,1199000,0.0,-1614000.0,Bandung,Loyal,Organic
+TXN01902,2023-12-25,CUST04576,H&M Linen Shirt,Fashion,3,249000,0.2,-359000.0,,New,Marketplace
+TXN01960,2023-08-01,CUST02568,Samsung QLED 55in,Electronics,1,8999000,0.0,-10799000.0,Bandung,Occasional,Marketplace
+TXN02015,2023-09-18,CUST03374,Logitech MX Keys,Electronics,1,1350000,0.2,-1080000.0,Makassar,New,Marketplace
+TXN02077,2023-09-23,CUST04623,Samsung QLED 55in,Electronics,1,8999000,0.0,-8999000.0,Jakarta,New,Marketplace
+TXN02117,2023-06-03,CUST04161,Adidas Ultraboost,Fashion,1,2099000,0.0,-2939000.0,Jakarta,Regular,Marketplace
+TXN02248,2023-08-31,CUST04560,Wardah Instaperfect,Beauty,1,85000,0.0,-102000.0,Bandung,Regular,Paid Social
+TXN02322,2023-12-29,CUST02817,Logitech MX Keys,Electronics,2,1350000,0.1,-1458000.0,Yogyakarta,Occasional,Email
+TXN02338,2023-03-21,CUST02201,JBL Flip 6,Electronics,1,1199000,0.1,-1079000.0,Jakarta,New,Paid Social
+TXN02443,2023-03-15,CUST00149,Zara Blazer Set,Fashion,1,1199000,0.0,-1199000.0,Medan,Occasional,Paid Social
+TXN02511,2023-05-23,CUST02690,Somethinc Niacinamide,Beauty,1,99000,0.2,-107000.0,Yogyakarta,New,Paid Social
+TXN02584,2023-09-26,CUST04726,Skintific SPF 50+,Beauty,2,129000,0.2,-206000.0,Yogyakarta,Regular,Email
+TXN02722,2023-01-14,CUST02394,Samsung QLED 55in,Electronics,1,8999000,0.1,-5293000.0,Bandung,Occasional,Organic
+TXN02776,2023-05-02,CUST04426,Somethinc Niacinamide,Beauty,1,99000,0.0,-133000.0,Semarang,Regular,Paid Social
+TXN02833,2023-05-08,CUST03928,IKEA Billy Shelf,Home & Living,1,799000,0.0,-1076000.0,Jakarta,New,Marketplace
+TXN02924,2023-02-06,CUST02586,Adidas Ultraboost,Fashion,1,2099000,0.1,-1511000.0,Jakarta,Regular,Marketplace
+TXN02928,2023-03-10,CUST00631,H&M Linen Shirt,Fashion,1,249000,0.05,-237000.0,Bali,Occasional,Email
+TXN02992,2023-02-09,CUST02126,Samsung QLED 55in,Electronics,1,8999000,0.0,-7199000.0,Jakarta,Regular,Organic
+TXN03067,2023-10-20,CUST00988,Kris Mattress King,Home & Living,2,4200000,0.2,-5376000.0,Jakarta,Occasional,Organic
+TXN03338,2023-08-16,CUST03358,Samsung QLED 55in,Electronics,1,8999000,0.1,-9719000.0,Makassar,Loyal,Email
+TXN03431,2023-05-21,CUST00850,Wardah Instaperfect,Beauty,1,85000,0.0,-114000.0,Yogyakarta,Occasional,Organic
+TXN03432,2023-04-20,CUST02371,Kris Mattress King,Home & Living,1,4200000,0.0,-5040000.0,Bandung,Loyal,Organic
+TXN03438,2023-01-26,CUST02240,Adidas Ultraboost,Fashion,2,2099000,0.0,-2744000.0,Surabaya,Loyal,Marketplace
+TXN03475,2023-05-24,CUST01190,Xiaomi Redmi 12,Electronics,1,2199000,0.1,-2665000.0,Jakarta,New,Paid Social
+TXN03499,2023-07-19,CUST04894,Zara Blazer Set,Fashion,1,1199000,0.0,-1614000.0,Semarang,New,Organic
+TXN03677,2023-01-29,CUST03677,Zara Blazer Set,Fashion,1,1199000,0.2,-627000.0,Makassar,New,Organic
+TXN03756,2023-10-24,CUST01599,Zara Blazer Set,Fashion,1,1199000,0.05,-911000.0,,Occasional,Organic
+TXN03771,2023-07-14,CUST02826,Samsung QLED 55in,Electronics,2,8999000,0.0,-24233000.0,Jakarta,Regular,Email
+TXN03933,2023-06-13,CUST02263,Skintific SPF 50+,Beauty,1,129000,0.0,-181000.0,Jakarta,Regular,Marketplace
+TXN04176,2023-11-01,CUST01048,Wardah Instaperfect,Beauty,1,85000,0.1,-50000.0,Jakarta,Occasional,Paid Social
+TXN04182,2023-04-20,CUST04911,Adidas Ultraboost,Fashion,1,2099000,0.1,-2267000.0,Jakarta,Regular,Organic
+TXN04254,2023-08-27,CUST04743,Xiaomi Redmi 12,Electronics,1,2199000,0.2,-2111000.0,Medan,Loyal,Email
+TXN04345,2023-05-01,CUST03189,Uniqlo Heattech L,Fashion,1,299000,0.0,-403000.0,Medan,Occasional,Paid Social
+TXN04389,2023-12-08,CUST00871,Nike Air Max 270,Fashion,1,1800000,0.05,-1026000.0,Jakarta,Occasional,Marketplace
+TXN04439,2023-08-01,CUST02225,Uniqlo Heattech L,Fashion,1,299000,0.1,-323000.0,Bali,Regular,Paid Social
+TXN04487,2023-02-10,CUST02331,JBL Flip 6,Electronics,3,1199000,0.0,-2878000.0,Bandung,New,Marketplace
+TXN04526,2023-05-29,CUST04286,Samsung QLED 55in,Electronics,1,8999000,0.05,-11511000.0,Semarang,New,Paid Social
+TXN04536,2023-09-14,CUST04861,Tupperware Set,Home & Living,1,349000,0.0,-349000.0,Bali,Regular,Paid Social
+TXN04721,2023-12-13,CUST04689,IKEA Billy Shelf,Home & Living,1,799000,0.05,-455000.0,Jakarta,New,Email
+TXN04723,2023-03-17,CUST03704,Apple AirPods Pro,Electronics,2,3799000,0.0,-7598000.0,Jakarta,Regular,Paid Social
+TXN05190,2023-03-10,CUST02233,Logitech MX Keys,Electronics,1,1350000,0.1,-1215000.0,Medan,Regular,Email
+TXN05280,2023-01-27,CUST03928,Nike Air Max 270,Fashion,1,1800000,0.0,-1176000.0,Semarang,Regular,Paid Social
+TXN05321,2023-09-09,CUST01584,Nike Air Max 270,Fashion,3,1800000,0.0,-5400000.0,Jakarta,New,Marketplace
+TXN05406,2023-07-28,CUST01674,Tupperware Set,Home & Living,2,349000,0.0,-940000.0,Jakarta,Regular,Organic
+TXN05467,2023-09-20,CUST01904,IKEA Billy Shelf,Home & Living,1,799000,0.0,-799000.0,Jakarta,Loyal,Organic
+TXN05525,2023-07-06,CUST04340,Dyson V11 Vacuum,Home & Living,1,7499000,0.05,-9592000.0,Surabaya,Loyal,Marketplace
+TXN05527,2023-06-02,CUST04043,Apple AirPods Pro,Electronics,3,3799000,0.2,-12765000.0,Yogyakarta,Regular,Marketplace
+TXN05789,2023-07-23,CUST02138,Philips Air Fryer,Home & Living,2,1499000,0.05,-3835000.0,Surabaya,New,Marketplace
+TXN05825,2023-10-24,CUST00685,Nike Air Max 270,Fashion,1,1800000,0.0,-1440000.0,Jakarta,Loyal,Email
+TXN05888,2023-08-03,CUST02681,Apple AirPods Pro,Electronics,1,3799000,0.05,-4331000.0,Semarang,New,Organic
+TXN05985,2023-06-11,CUST02154,Xiaomi Redmi 12,Electronics,3,2199000,0.05,-8774000.0,Semarang,Occasional,Marketplace
+TXN06116,2023-04-06,CUST00579,Logitech MX Keys,Electronics,2,1350000,0.05,-3078000.0,Jakarta,Regular,Organic
+TXN06198,2023-12-31,CUST02986,Nike Air Max 270,Fashion,1,1800000,0.1,-972000.0,Jakarta,Occasional,Organic
+TXN06218,2023-10-18,CUST03891,Uniqlo Heattech L,Fashion,3,299000,0.05,-682000.0,Bandung,Occasional,Paid Social
+TXN06239,2023-12-15,CUST04833,Nike Air Max 270,Fashion,1,1800000,0.0,-1080000.0,Jakarta,New,Email
+TXN06251,2023-10-12,CUST03245,Logitech MX Keys,Electronics,2,1350000,0.0,-2160000.0,Surabaya,New,Email
+TXN06265,2023-07-16,CUST04716,Skintific SPF 50+,Beauty,1,129000,0.1,-156000.0,Bandung,Occasional,Organic
+TXN06497,2023-10-15,CUST04175,Apple AirPods Pro,Electronics,1,3799000,0.05,-2887000.0,Jakarta,New,Paid Social
+TXN06576,2023-04-08,CUST04052,The Ordinary AHA,Beauty,1,189000,0.0,-227000.0,Jakarta,New,Paid Social
+TXN06620,2023-03-08,CUST04188,Xiaomi Redmi 12,Electronics,1,2199000,0.0,-2199000.0,Bandung,Occasional,Paid Social
+TXN06632,2023-10-18,CUST04236,Logitech MX Keys,Electronics,1,1350000,0.0,-1080000.0,Surabaya,New,Organic
+TXN06636,2023-02-10,CUST04046,Samsung QLED 55in,Electronics,1,8999000,0.0,-7199000.0,Bandung,Loyal,Organic
+TXN06646,2023-12-31,CUST01159,Logitech MX Keys,Electronics,1,1350000,0.05,-770000.0,Bandung,Regular,Paid Social
+TXN06716,2023-01-04,CUST04054,Wardah Instaperfect,Beauty,1,85000,0.0,-56000.0,Makassar,Loyal,Organic
+TXN06926,2023-04-14,CUST03151,Samsung QLED 55in,Electronics,1,8999000,0.1,-9719000.0,Medan,Occasional,Marketplace
+TXN07069,2023-04-11,CUST00308,Adidas Ultraboost,Fashion,1,2099000,0.05,-2393000.0,Jakarta,New,Paid Social
+TXN07092,2023-10-17,CUST03990,Wardah Instaperfect,Beauty,3,85000,0.0,-204000.0,Bandung,Occasional,Organic
+TXN07209,2023-10-15,CUST03355,Logitech MX Keys,Electronics,1,1350000,0.0,-1080000.0,Makassar,New,Marketplace
+TXN07390,2023-06-10,CUST00924,Apple AirPods Pro,Electronics,2,3799000,0.1,-9573000.0,Jakarta,Loyal,Marketplace
+TXN07641,2023-09-16,CUST01575,Nike Air Max 270,Fashion,2,1800000,0.2,-2880000.0,Surabaya,Occasional,Organic
+TXN07711,2023-11-05,CUST02191,Uniqlo Heattech L,Fashion,3,299000,0.2,-469000.0,Jakarta,New,Marketplace
+TXN07882,2023-09-15,CUST03998,Logitech MX Keys,Electronics,1,1350000,0.2,-1080000.0,Medan,Regular,Marketplace
+TXN07934,2023-08-11,CUST03440,Uniqlo Heattech L,Fashion,1,299000,0.0,-359000.0,Medan,New,Organic
+TXN07995,2023-12-15,CUST02113,Logitech MX Keys,Electronics,1,1350000,0.0,-810000.0,Bandung,Regular,Paid Social
+TXN08004,2023-04-02,CUST04924,H&M Linen Shirt,Fashion,2,249000,0.1,-538000.0,Bandung,Regular,Paid Social
+TXN08064,2023-10-30,CUST02760,Skintific SPF 50+,Beauty,1,129000,0.0,-103000.0,Jakarta,New,Organic
+TXN08085,2023-04-20,CUST01628,JBL Flip 6,Electronics,1,1199000,0.2,-1151000.0,Jakarta,Regular,Email
+TXN08141,2023-05-09,CUST04001,Samsung QLED 55in,Electronics,1,8999000,0.05,-11511000.0,Jakarta,New,Paid Social
+TXN08142,2023-10-10,CUST02729,Skintific SPF 50+,Beauty,1,129000,0.0,-103000.0,Makassar,Occasional,Organic
+TXN08295,2023-03-14,CUST04564,Wardah Instaperfect,Beauty,2,85000,0.0,-170000.0,Jakarta,Regular,Email
+TXN08377,2023-07-03,CUST03827,Samsung QLED 55in,Electronics,1,8999000,0.0,-12116000.0,Bandung,Loyal,Email
+TXN08437,2023-04-03,CUST03718,JBL Flip 6,Electronics,1,1199000,0.2,-1151000.0,Bandung,Occasional,Organic
+TXN08457,2023-12-25,CUST02889,JBL Flip 6,Electronics,1,1199000,0.0,-719000.0,Medan,Occasional,Email
+TXN08460,2023-06-20,CUST02640,Tupperware Set,Home & Living,1,349000,0.0,-489000.0,Jakarta,Loyal,Marketplace
+TXN08472,2023-01-28,CUST02490,Kris Mattress King,Home & Living,1,4200000,0.0,-2745000.0,Surabaya,New,Paid Social
+TXN08619,2023-12-31,CUST03529,Logitech MX Keys,Electronics,1,1350000,0.05,-770000.0,Makassar,New,Email
+TXN08704,2023-02-02,CUST04688,Adidas Ultraboost,Fashion,1,2099000,0.2,-1343000.0,Jakarta,Regular,Organic
+TXN08732,2023-07-11,CUST01887,JBL Flip 6,Electronics,1,1199000,0.0,-1614000.0,Bandung,Regular,Organic
+TXN08778,2023-04-17,CUST00503,Zara Blazer Set,Fashion,1,1199000,0.05,-1367000.0,Jakarta,Loyal,Paid Social
+TXN08869,2023-03-08,CUST00199,JBL Flip 6,Electronics,1,1199000,0.05,-1139000.0,Jakarta,Occasional,Marketplace
+TXN08874,2023-04-17,CUST03993,Philips Air Fryer,Home & Living,1,1499000,0.0,-1799000.0,Makassar,Regular,Email
+TXN08916,2023-07-07,CUST01168,Tupperware Set,Home & Living,1,349000,0.05,-446000.0,Bandung,Regular,Marketplace
+TXN09217,2023-11-19,CUST00791,Adidas Ultraboost,Fashion,1,2099000,0.0,-1372000.0,Bandung,New,Email
+TXN09453,2023-05-23,CUST01649,Tupperware Set,Home & Living,1,349000,0.0,-470000.0,Yogyakarta,New,Paid Social
+TXN09543,2023-10-26,CUST03682,Uniqlo Heattech L,Fashion,1,299000,0.1,-215000.0,Surabaya,Loyal,Organic
+TXN09733,2023-03-27,CUST03252,Emina BB Cream,Beauty,1,75000,0.05,-71000.0,Surabaya,Regular,Paid Social
+TXN09770,2023-04-13,CUST03094,Tupperware Set,Home & Living,1,349000,0.0,-419000.0,Makassar,New,Organic
+TXN09815,2023-03-20,CUST01764,Kris Mattress King,Home & Living,1,4200000,0.1,-3780000.0,Yogyakarta,Occasional,Email
+TXN09850,2023-09-02,CUST02356,Philips Air Fryer,Home & Living,1,1499000,0.0,-1499000.0,Medan,Loyal,Paid Social
+TXN09856,2023-05-22,CUST03128,Uniqlo Heattech L,Fashion,1,299000,0.0,-403000.0,,Occasional,Email
+TXN09864,2023-09-30,CUST01904,Logitech MX Keys,Electronics,1,1350000,0.1,-1215000.0,Surabaya,Loyal,Marketplace
+TXN10068,2023-12-16,CUST02075,Logitech MX Keys,Electronics,2,1350000,0.0,-1620000.0,Makassar,Regular,Marketplace
+TXN10079,2023-08-12,CUST03761,Philips Air Fryer,Home & Living,1,1499000,0.0,-1799000.0,Medan,Occasional,Paid Social
+TXN10292,2023-03-17,CUST03783,Apple AirPods Pro,Electronics,2,3799000,0.0,-7598000.0,Surabaya,New,Organic
+TXN10315,2023-08-19,CUST02546,Somethinc Niacinamide,Beauty,1,99000,0.1,-107000.0,Surabaya,Loyal,Email
+TXN10348,2023-06-02,CUST04198,Apple AirPods Pro,Electronics,1,3799000,0.0,-5319000.0,Medan,Regular,Email
+TXN10957,2023-03-20,CUST01587,Adidas Ultraboost,Fashion,2,2099000,0.0,-4198000.0,Jakarta,Occasional,Paid Social
+TXN11073,2023-04-20,CUST03646,IKEA Billy Shelf,Home & Living,1,799000,0.1,-863000.0,Bandung,Occasional,Marketplace
+TXN11136,2023-10-18,CUST02620,Zara Blazer Set,Fashion,1,1199000,0.0,-959000.0,Yogyakarta,Regular,Email
+TXN11172,2023-05-14,CUST03096,Adidas Ultraboost,Fashion,1,2099000,0.1,-2544000.0,Bandung,Regular,Paid Social
+TXN11384,2023-03-27,CUST00634,Emina BB Cream,Beauty,2,75000,0.1,-135000.0,Bali,New,Paid Social
+TXN11418,2023-12-13,CUST01263,Zara Blazer Set,Fashion,1,1199000,0.05,-683000.0,Bandung,Occasional,Paid Social
+TXN11497,2023-09-13,CUST00364,Samsung QLED 55in,Electronics,1,8999000,0.1,-8099000.0,Jakarta,Occasional,Email
+TXN11685,2023-11-12,CUST01771,Philips Air Fryer,Home & Living,1,1499000,0.05,-931000.0,,New,Marketplace
+TXN11686,2023-04-17,CUST03346,Tupperware Set,Home & Living,1,349000,0.1,-377000.0,Surabaya,Loyal,Marketplace
+TXN11714,2023-09-01,CUST00543,Zara Blazer Set,Fashion,1,1199000,0.0,-1199000.0,Medan,Occasional,Marketplace
+TXN11986,2023-11-20,CUST00812,Xiaomi Redmi 12,Electronics,1,2199000,0.0,-1437000.0,Jakarta,Regular,Marketplace
+TXN11989,2023-11-06,CUST01295,Apple AirPods Pro,Electronics,1,3799000,0.0,-2483000.0,Bandung,Regular,Paid Social
+TXN12003,2023-11-30,CUST01958,Adidas Ultraboost,Fashion,1,2099000,0.2,-1098000.0,Medan,Occasional,Email
+TXN12189,2023-06-08,CUST04961,Emina BB Cream,Beauty,1,75000,0.0,-105000.0,Jakarta,Occasional,Marketplace
+TXN12248,2023-05-12,CUST01442,Skintific SPF 50+,Beauty,1,129000,0.0,-174000.0,Surabaya,Regular,Paid Social
+TXN12316,2023-08-09,CUST03857,Logitech MX Keys,Electronics,1,1350000,0.05,-1539000.0,Jakarta,Occasional,Paid Social
+TXN12334,2023-02-08,CUST04134,Adidas Ultraboost,Fashion,2,2099000,0.1,-3023000.0,Surabaya,Loyal,Paid Social
+TXN12337,2023-04-30,CUST02087,IKEA Billy Shelf,Home & Living,2,799000,0.2,-1534000.0,Yogyakarta,Loyal,Marketplace
+TXN12384,2023-02-26,CUST04822,The Ordinary AHA,Beauty,1,189000,0.1,-136000.0,Bali,Regular,Organic
+TXN12432,2023-01-26,CUST01454,IKEA Billy Shelf,Home & Living,1,799000,0.1,-470000.0,Jakarta,New,Marketplace
+TXN12496,2023-08-14,CUST02196,Kris Mattress King,Home & Living,1,4200000,0.0,-5040000.0,Yogyakarta,New,Email
+TXN12613,2023-06-27,CUST03492,Tupperware Set,Home & Living,1,349000,0.2,-391000.0,Jakarta,New,Organic
+TXN12726,2023-02-28,CUST03283,IKEA Billy Shelf,Home & Living,1,799000,0.05,-607000.0,Surabaya,Occasional,Organic
+TXN12743,2023-09-11,CUST03550,Adidas Ultraboost,Fashion,1,2099000,0.0,-2099000.0,Makassar,Regular,Paid Social
+TXN12744,2023-04-19,CUST01424,IKEA Billy Shelf,Home & Living,1,799000,0.0,-959000.0,Jakarta,Occasional,Email
+TXN12884,2023-07-04,CUST00580,Zara Blazer Set,Fashion,1,1199000,0.05,-1534000.0,Semarang,New,Organic
+TXN12929,2023-08-05,CUST04957,Zara Blazer Set,Fashion,1,1199000,0.0,-1439000.0,Surabaya,New,Email
+TXN12939,2023-09-28,CUST03864,Nike Air Max 270,Fashion,2,1800000,0.0,-3600000.0,Surabaya,New,Marketplace
+TXN12989,2023-04-09,CUST02896,Skintific SPF 50+,Beauty,1,129000,0.1,-139000.0,Yogyakarta,Loyal,Paid Social
+TXN13032,2023-02-14,CUST03354,Logitech MX Keys,Electronics,2,1350000,0.0,-2160000.0,Jakarta,Regular,Paid Social
+TXN13106,2023-06-23,CUST01627,JBL Flip 6,Electronics,1,1199000,0.0,-1679000.0,Jakarta,Loyal,Email
+TXN13259,2023-08-06,CUST00971,Apple AirPods Pro,Electronics,1,3799000,0.05,-4331000.0,Jakarta,Regular,Email
+TXN13513,2023-10-01,CUST01164,Somethinc Niacinamide,Beauty,3,99000,0.0,-238000.0,Bandung,New,Marketplace
+TXN13697,2023-10-22,CUST03727,JBL Flip 6,Electronics,1,1199000,0.1,-863000.0,Bali,New,Marketplace
+TXN13927,2023-11-06,CUST00749,Kris Mattress King,Home & Living,1,4200000,0.0,-2745000.0,Bandung,New,Organic
+TXN13964,2023-07-22,CUST00959,Samsung QLED 55in,Electronics,1,8999000,0.1,-10905000.0,Jakarta,Regular,Marketplace
+TXN13969,2023-01-21,CUST01782,Kris Mattress King,Home & Living,1,4200000,0.0,-2745000.0,Jakarta,Loyal,Paid Social
+TXN14150,2023-11-24,CUST01935,H&M Linen Shirt,Fashion,2,249000,0.1,-293000.0,,Occasional,Email
+TXN14785,2023-07-24,CUST03369,Samsung QLED 55in,Electronics,3,8999000,0.0,-36349000.0,Jakarta,Loyal,Paid Social
+TXN14794,2023-12-29,CUST02665,Samsung QLED 55in,Electronics,1,8999000,0.0,-5399000.0,Bandung,Regular,Paid Social
+TXN14870,2023-08-02,CUST00201,Dyson V11 Vacuum,Home & Living,1,7499000,0.05,-8549000.0,Medan,New,Organic
+TXN14895,2023-04-05,CUST02057,H&M Linen Shirt,Fashion,3,249000,0.0,-896000.0,,Loyal,Paid Social
+TXN14930,2023-03-19,CUST00714,Zara Blazer Set,Fashion,2,1199000,0.0,-2398000.0,Surabaya,Regular,Organic
