@@ -211,6 +211,5 @@ def update_all(cat, ch, quarter):
 
     return kpi_cards, fig_line, fig_donut, fig_seg, fig_heat, top.to_dict("records")
 
-
 if __name__ == "__main__":
     app.run(debug=True)
